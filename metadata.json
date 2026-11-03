@@ -1,0 +1,7 @@
+{
+  "name": "CyberLeak Guard",
+  "description": "Plateforme avancée de vérification des fuites de données : analysez si vos adresses e-mail, mots de passe ou identifiants combinés ont été compromis dans des brèches de sécurité.",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

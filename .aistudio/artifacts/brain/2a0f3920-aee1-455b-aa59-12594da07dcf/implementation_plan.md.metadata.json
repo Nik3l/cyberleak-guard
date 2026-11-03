@@ -1,0 +1,6 @@
+{
+  "summary": "Plan d'implémentation pour la fiabilisation de l'audit d'e-mail (résolution du faux négatif sur b_chazal@hotmail.com, allongement du timeout à 10s, suppression définitive des faux négatifs silencieux, et ajout du lien de vérification HaveIBeenPwned).",
+  "updatedAt": "2026-11-03T13:28:21.593236373Z",
+  "requestFeedback": true,
+  "userFacing": true
+}
